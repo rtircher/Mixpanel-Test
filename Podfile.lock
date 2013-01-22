@@ -1,0 +1,11 @@
+
+PODS:
+- Mixpanel (1.0.5)
+
+DEPENDENCIES:
+- Mixpanel (~> 1.0.5)
+
+SPEC CHECKSUMS:
+  Mixpanel: 5b7c3274ceec4cb6dfdd351e12dacfece8c12919
+
+COCOAPODS: 0.16.1
